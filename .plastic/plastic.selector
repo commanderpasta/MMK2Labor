@@ -1,0 +1,4 @@
+repository "PointandClick@MMK2@cloud"
+  path "/"
+    br "/main"
+    co "/main"
